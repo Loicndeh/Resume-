@@ -9,5 +9,5 @@ I enjoy building and managing secure, scalable solutions while collaborating acr
 
 Currently pursuing my M.S. in Cybersecurity at UMGC, I’m focused on expanding my technical expertise through hands-on labs, security assessments, and real-world projects that strengthen both delivery speed and protection.
 
-🛠️ Tech & Tools:
+ Tech & Tools:
 Azure DevOps • AWS • Jira • ServiceNow • Wireshark • Splunk • Security Onion • Nmap • Terraform • Python
